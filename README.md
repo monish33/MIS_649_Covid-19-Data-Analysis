@@ -31,6 +31,4 @@ Make your changes and commit them.
 Push your changes to your fork.
 Submit a pull request to the main repository.
 
-License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
